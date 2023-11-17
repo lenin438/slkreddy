@@ -18,6 +18,8 @@ https://github.com/uzh-rpg/active_camera_exposure_control/tree/master/photometri
 
 #######  Gstreamer  #############
 
+https://gstreamer.freedesktop.org/documentation/frequently-asked-questions/using.html?gi-language=c
+
 https://gstreamer.freedesktop.org/documentation/gstreamer/gstpipeline.html?gi-language=c
 
 https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_plugin_gst-nvvideoconvert.html
